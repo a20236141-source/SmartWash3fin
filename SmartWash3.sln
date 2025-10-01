@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmartWash3Model", "SmartWash3Model\SmartWash3Model.vcxproj", "{F27126E2-DE3A-760C-5224-866E322B3019}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmartWash3Controller", "SmartWash3Controller\SmartWash3Controller.vcxproj", "{7789DE9B-651E-65A2-97B2-64C80A80BAA5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SmartWash3View", "SmartWash3View\SmartWash3View.vcxproj", "{E5F14CED-8070-B8F9-9A97-E96D39344AC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F27126E2-DE3A-760C-5224-866E322B3019}.Debug|x64.ActiveCfg = Debug|x64
+		{F27126E2-DE3A-760C-5224-866E322B3019}.Debug|x64.Build.0 = Debug|x64
+		{F27126E2-DE3A-760C-5224-866E322B3019}.Debug|x86.ActiveCfg = Debug|Win32
+		{F27126E2-DE3A-760C-5224-866E322B3019}.Debug|x86.Build.0 = Debug|Win32
+		{F27126E2-DE3A-760C-5224-866E322B3019}.Release|x64.ActiveCfg = Release|x64
+		{F27126E2-DE3A-760C-5224-866E322B3019}.Release|x64.Build.0 = Release|x64
+		{F27126E2-DE3A-760C-5224-866E322B3019}.Release|x86.ActiveCfg = Release|Win32
+		{F27126E2-DE3A-760C-5224-866E322B3019}.Release|x86.Build.0 = Release|Win32
+		{7789DE9B-651E-65A2-97B2-64C80A80BAA5}.Debug|x64.ActiveCfg = Debug|x64
+		{7789DE9B-651E-65A2-97B2-64C80A80BAA5}.Debug|x64.Build.0 = Debug|x64
+		{7789DE9B-651E-65A2-97B2-64C80A80BAA5}.Debug|x86.ActiveCfg = Debug|Win32
+		{7789DE9B-651E-65A2-97B2-64C80A80BAA5}.Debug|x86.Build.0 = Debug|Win32
+		{7789DE9B-651E-65A2-97B2-64C80A80BAA5}.Release|x64.ActiveCfg = Release|x64
+		{7789DE9B-651E-65A2-97B2-64C80A80BAA5}.Release|x64.Build.0 = Release|x64
+		{7789DE9B-651E-65A2-97B2-64C80A80BAA5}.Release|x86.ActiveCfg = Release|Win32
+		{7789DE9B-651E-65A2-97B2-64C80A80BAA5}.Release|x86.Build.0 = Release|Win32
+		{E5F14CED-8070-B8F9-9A97-E96D39344AC1}.Debug|x64.ActiveCfg = Debug|x64
+		{E5F14CED-8070-B8F9-9A97-E96D39344AC1}.Debug|x64.Build.0 = Debug|x64
+		{E5F14CED-8070-B8F9-9A97-E96D39344AC1}.Debug|x86.ActiveCfg = Debug|Win32
+		{E5F14CED-8070-B8F9-9A97-E96D39344AC1}.Debug|x86.Build.0 = Debug|Win32
+		{E5F14CED-8070-B8F9-9A97-E96D39344AC1}.Release|x64.ActiveCfg = Release|x64
+		{E5F14CED-8070-B8F9-9A97-E96D39344AC1}.Release|x64.Build.0 = Release|x64
+		{E5F14CED-8070-B8F9-9A97-E96D39344AC1}.Release|x86.ActiveCfg = Release|Win32
+		{E5F14CED-8070-B8F9-9A97-E96D39344AC1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6BE93A8-4708-4A61-A6B8-E57B28C1EC29}
+	EndGlobalSection
+EndGlobal
