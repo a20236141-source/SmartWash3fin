@@ -18,6 +18,18 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="LoyaltyProgram.h" />
+    <ClInclude Include="Promotion.h" />
+    <ClInclude Include="Subscription.h" />
+    <ClInclude Include="SuscriptionPlan.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="LoyaltyProgrma.cpp" />
+    <ClCompile Include="Promotion.cpp" />
+    <ClCompile Include="SuscriptionPlan.cpp" />
+    <ClCompile Include="Subscription.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <ProjectGuid>{F27126E2-DE3A-760C-5224-866E322B3019}</ProjectGuid>
@@ -110,8 +122,6 @@
       <AdditionalDependencies />
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

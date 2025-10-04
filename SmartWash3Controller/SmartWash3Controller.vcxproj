@@ -18,6 +18,12 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SuscriptionController.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SuscriptionController.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <ProjectGuid>{7789DE9B-651E-65A2-97B2-64C80A80BAA5}</ProjectGuid>
