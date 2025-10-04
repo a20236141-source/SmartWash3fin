@@ -18,6 +18,14 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SmartWash3Controller\SmartWash3Controller.vcxproj">
+      <Project>{7789de9b-651e-65a2-97b2-64c80a80baa5}</Project>
+    </ProjectReference>
+    <ProjectReference Include="..\SmartWash3Model\SmartWash3Model.vcxproj">
+      <Project>{f27126e2-de3a-760c-5224-866e322b3019}</Project>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <ProjectGuid>{E5F14CED-8070-B8F9-9A97-E96D39344AC1}</ProjectGuid>

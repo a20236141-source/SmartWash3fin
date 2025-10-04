@@ -24,6 +24,11 @@
   <ItemGroup>
     <ClCompile Include="SuscriptionController.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SmartWash3Model\SmartWash3Model.vcxproj">
+      <Project>{f27126e2-de3a-760c-5224-866e322b3019}</Project>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <ProjectGuid>{7789DE9B-651E-65A2-97B2-64C80A80BAA5}</ProjectGuid>
